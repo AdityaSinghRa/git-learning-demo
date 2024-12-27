@@ -1,4 +1,4 @@
 # git-learning-demo
 This is my first Git Repository.
 <br>
-Author-Aditya Singh
+Author-Aditya Singh Rajput
